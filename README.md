@@ -68,16 +68,17 @@
 
 
   <img width="1181" alt="스크린샷 2022-07-25 오전 11 06 39" src="https://user-images.githubusercontent.com/66675699/180679323-a10b3a30-40dc-48f1-a09a-4a2adec082f9.png" style="width:500px">
+<br><br>
+[스피너]
 
-- **`스피너`**
   - 페이지 전환 시 0.5초 동안 보여지는 스피너 구현
 
 
 
 <img src="https://user-images.githubusercontent.com/66675699/180680011-3f876204-7d5d-4ec8-bd81-ecdf948b693a.gif" style="width:500px"/>
 
-
-- **`NOT FOUND 페이지`**
+<br><br>
+[NOT FOUND 페이지]
   - 잘못된 url로 접근 시 보여지는 NOT FOUND 페이지 구현
 <img width="1763" alt="스크린샷 2022-07-25 오전 10 58 10" src="https://user-images.githubusercontent.com/66675699/180678889-fd1aa853-d332-4894-bb1d-1eddef99d415.png" style="width:500px">
 
