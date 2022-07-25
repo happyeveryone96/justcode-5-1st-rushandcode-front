@@ -49,18 +49,37 @@
 
 #### 정진우
 
-- **`제품 상세`**
+[제품 상세]
   - 제품 상세 정보 가져오기 기능 구현
+  
+<img width="1759" alt="스크린샷 2022-07-25 오전 10 58 36" src="https://user-images.githubusercontent.com/66675699/180679030-43f251f0-f642-4751-9b1d-90885c2271cc.png" style="width:500px"/>
+
   - 리뷰 추가, 수정, 삭제 기능 구현
+
+<img width="1249" alt="스크린샷 2022-07-25 오전 11 05 27" src="https://user-images.githubusercontent.com/66675699/180679172-24388a75-eff8-4fa0-8113-f0d2c3bcbb8a.png"  style="width:500px">
+
   - 장바구니 추가 기능 구현
-  - 내비게이션 바의 버튼 클릭 시 해당 위치로 스크롤 기능 구현
-- **`장바구니`**
+  - 내비게이션 바의 버튼 클릭 시 해당 위치로 스크롤 기능 구현<br><br>
+  
+[장바구니]
   - 장바구니 수정 기능 구현
   - 장바구니 삭제 기능 구현
   - 장바구니 전체 삭제 기능 구현
-  
+
+
+  <img width="1181" alt="스크린샷 2022-07-25 오전 11 06 39" src="https://user-images.githubusercontent.com/66675699/180679323-a10b3a30-40dc-48f1-a09a-4a2adec082f9.png" style="width:500px">
+
 - **`스피너`**
   - 페이지 전환 시 0.5초 동안 보여지는 스피너 구현
+
+
+
+<img src="https://user-images.githubusercontent.com/66675699/180680011-3f876204-7d5d-4ec8-bd81-ecdf948b693a.gif" style="width:500px"/>
+
+
+- **`NOT FOUND 페이지`**
+  - 잘못된 url로 접근 시 보여지는 NOT FOUND 페이지 구현
+<img width="1763" alt="스크린샷 2022-07-25 오전 10 58 10" src="https://user-images.githubusercontent.com/66675699/180678889-fd1aa853-d332-4894-bb1d-1eddef99d415.png" style="width:500px">
 
 #### 임상빈
 
