@@ -21,7 +21,7 @@
   - 개발 인원 | 총 4명
 - 프로젝트 선정 이유
   - 2주라는 짧은 기간 안에 이루어지는 첫번째 프로젝트에 어울리는 기본에 충실한 웹 사이트인 LUSH를 선택하게 되었습니다. <br>
-  지금까지 배웠던 기술들을 잘 녹여낼 수 있었던 프로젝트라 생각합니다.
+  지금까지 배웠던 기술들을 잘 녹여낼 수 있었던 프로젝트라고 생각합니다.
 
 ## 📪 레포지토리 주소
 
@@ -39,9 +39,9 @@
 ## 💻 Technlogies
 
 - Front-end
-  - HTML | SCSS | JAVASCRIPT | REACT | STYLED-COMPONENTS
+  - HTML | SCSS | JavaScript | React.js | Styled-Components
 - Back-end
-  - PRISMA | MYSQL | NODE.JS | POSTMAN | EXPRESS
+  - Prisma | MySQL | Node.js | Postman | Express.js
 
 ## 👀 구현 기능
 
@@ -145,6 +145,31 @@
 
 - **`제품 상세 API`**
   - 제품 상세 정보 전달 API 구현
+  
+<br><br>
+  
+## Convention
+- Git | Branch Convention
+    - feature/기능명
+    - camelCase
+    - ex) feature/productDetail
+          feature/login
+          
+- Git | Commit
+    - Add: 기능을 추가할 때
+    - Fix: 기능을 수정,개선할 때, 버그수정
+    - Modify: 스타일 수정
+    - Rename: 파일, 폴더명, 브랜치명 수정
+    - Remove: 기능/파일 삭제
+    - Refactor: 코드 리팩토링
+    - 커밋단위 : 깃허브 issue 체크박스 완료시
+    - PL: 티켓 완료시
+    
+- File | Naming Convention
+    - UI 컴포넌트: Pascal Case
+    - SCSS : snake_case
+    - 그 외: hyphen-case
+    - JS : camelCase
 
 ## Contact US
 
